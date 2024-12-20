@@ -1,11 +1,11 @@
-<Login admin>
+# <Login admin>
 username : admin
 password : 111
 <br>
 
-# Language
+Language
 PHP
-# DB
+DB
 phpMyAdmin
 Aplikasi Berbasis Website <b> POLIKLINIK </b> menggunakan PHP dengan connection Admin, Dokter dan Pasien.
 Fitur tersedia : 
